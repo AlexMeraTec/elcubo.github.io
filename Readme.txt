@@ -1,4 +1,4 @@
 Proyecto: Papeleria El Cubo
-URL: https://eparache.github.io/PapeleriadelTianguis/index.html
+URL: https://AlexMeraTec.github.io/elcubo/index.html
 Autor: Alex Mera
 Licencia: Abierta
